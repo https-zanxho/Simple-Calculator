@@ -1,10 +1,12 @@
-# Python Projects
+#  Simple Python Calculator
 
-Este repositorio contiene mis proyectos personales de programación en Python.
+A basic calculator built in Python to perform simple arithmetic operations: addition, subtraction, multiplication, and division. This project is designed for learning Python fundamentals and practicing Git & GitHub workflow.
 
-## 🧮 CALCULATOR.py
-Proyecto simple de calculadora para practicar sintaxis, operaciones y funciones básicas en Python.
+---
 
-### Cómo ejecutar
+### Requirements
+- Python 3.10 or higher
+
+### Run the game
 ```bash
-python CALCULATOR.py
+python tic_tac_toe.py
