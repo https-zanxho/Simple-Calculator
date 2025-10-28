@@ -1,4 +1,4 @@
-#  Simple Python Calculator
+# 📌Simple Python Calculator
 
 A basic calculator built in Python to perform simple arithmetic operations: addition, subtraction, multiplication, and division. This project is designed for learning Python fundamentals and practicing Git & GitHub workflow.
 
