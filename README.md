@@ -9,4 +9,4 @@ A basic calculator built in Python to perform simple arithmetic operations: addi
 
 ### Run the game
 ```bash
-python src/main.py
+python3 src/main.py
